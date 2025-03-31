@@ -28,7 +28,7 @@ author     : Your Name
 locale: "es" # See available languages in _data/sitetext.yml
 
 analytics:
-  google: #Google Analytics tracking code here
+  google: G-KW5GY0J7C6
 
 collections:
   portfolio:
